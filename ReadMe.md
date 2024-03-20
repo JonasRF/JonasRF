@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 Hoje trabalho com suporte computacional<br>- 🌱 Estudando diversas tecnologias como back-end, front-end, devops, microserviços e cloud.<br>- 📫 Contato; jonasflajo@gmail.com<br>- 😄 Pronouns: ele/dele
+- 🔭 Hoje trabalho como Analista de Suporte Computacional<br>- 🌱 Estudando diversas tecnologias como back-end, front-end, devops, microserviços e cloud.<br>- 📫 Contato; jonasflajo@gmail.com<br>- 😄 Pronouns: ele/dele
 
 
 ## 🌐 Socials:
